@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @xentee/Lucas<br>👀 I’m interested in programmation, tech, video-games<br>🌱 I’m currently learning programmation in France<br>📫 How to reach me :<br>- Discord : XenTee_#6034<br>- Twitter : @xenteecs<br>- Mail : lucas.fanner@gmail.com
+👋 Hi, I’m @xentee/Lucas<br>👀 I’m interested in programmation, tech, video-games<br>🌱 I’m currently learning programmation in France<br>📫 How to reach me :<br>- Discord : xentee_<br>- Twitter : @xenteecs<br>- Mail : lucas.fanner@gmail.com
 
 
 # 💻 Tech Stack:
